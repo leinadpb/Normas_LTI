@@ -1,0 +1,15 @@
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\bin\Debug\NormasLTI.exe.config
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\bin\Debug\NormasLTI.exe
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\bin\Debug\NormasLTI.pdb
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\obj\Debug\NormasLTI.MainForm.resources
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\obj\Debug\NormasLTI.Properties.Resources.resources
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\obj\Debug\NormasLTI.csproj.GenerateResource.cache
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\obj\Debug\NormasLTI.csproj.CoreCompileInputs.cache
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\obj\Debug\NormasLTI.exe
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\obj\Debug\NormasLTI.pdb
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\bin\Debug\EntityFramework.dll
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\bin\Debug\EntityFramework.xml
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\obj\Debug\NormasLTI.csproj.CopyComplete
+C:\Users\daniel.pena\Desktop\APPS\NormasLTI\NormasLTI\obj\Debug\NormasLTI.RulesReminder.resources

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NormasLTI", "NormasLTI\NormasLTI.csproj", "{9B83102C-2462-48C8-8A8D-2AF1D43A4581}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LTI_SetUp", "LTI_SetUp\LTI_SetUp.vdproj", "{B76E75A0-96E7-4E29-AAA9-7265336AF2AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{06A32E20-4E3F-4F1F-B6F9-9F167BCDC4C3}"
+	ProjectSection(SolutionItems) = preProject
+		gitignore.gitignore = gitignore.gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B83102C-2462-48C8-8A8D-2AF1D43A4581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B83102C-2462-48C8-8A8D-2AF1D43A4581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B83102C-2462-48C8-8A8D-2AF1D43A4581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B83102C-2462-48C8-8A8D-2AF1D43A4581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76E75A0-96E7-4E29-AAA9-7265336AF2AB}.Debug|Any CPU.ActiveCfg = Debug
+		{B76E75A0-96E7-4E29-AAA9-7265336AF2AB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC8A811D-F9DB-4808-A5CC-1687886F8F09}
+	EndGlobalSection
+EndGlobal
